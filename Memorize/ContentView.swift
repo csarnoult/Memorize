@@ -11,7 +11,7 @@ import SwiftUI
 // This is functional programming. This ConentView "behaves" or "functions" like a View. Not "is a" view. That's OOP.
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!!!!!")
+        Text("Hello, World!!!!!!!")
     }
 }
 
